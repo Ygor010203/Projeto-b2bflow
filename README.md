@@ -28,6 +28,4 @@ ZAPI_TOKEN=seu_token_da_zapi
  ⚙️Como rodar o projeto
 
 Clone este repositório:
-   bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
-   cd NOME-DO-REPOSITORIO
+git clone [https://github.com/Ygor010203/Projeto-b2bflow.git](https://github.com/Ygor010203/Projeto-b2bflow.git)
