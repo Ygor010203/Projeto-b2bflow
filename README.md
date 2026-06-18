@@ -12,6 +12,19 @@ Este projeto é uma ferramenta de automação desenvolvida em Python que lê con
 Supabase: Banco de dados para armazenamento dos contatos.
 Z-API: API para integração e envio de mensagens via WhatsApp.
 
+🛠 Configure as variáveis de ambiente
+Por questões de segurança, as credenciais não estão incluídas.
+
+Crie um arquivo chamado .env na raiz do projeto.
+
+Preencha com os dados seguindo o modelo abaixo:
+
+Plaintext
+SUPABASE_URL=sua_url_do_supabase
+SUPABASE_KEY=sua_key_do_supabase
+ZAPI_URL=sua_url_da_zapi
+ZAPI_TOKEN=seu_token_da_zapi
+
  ⚙️Como rodar o projeto
 
 Clone este repositório:
